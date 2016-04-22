@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[pierobon]]></title>
-        <description><![CDATA[pierobon]]></description>
+        <title><![CDATA[Marco Pierobon]]></title>
+        <description><![CDATA[Marco Pierobon]]></description>
         <link>https://thegrid.ai/pierobon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 19:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 19:41:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pierobon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Git cheat sheet]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/pierobon/git-cheat-sheet/index.html</link>
+            <guid isPermaLink="false">1801e171-e285-4926-b844-439745e61785</guid>
+            <pubDate>Fri, 22 Apr 2016 19:41:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Notes on Dynamo DB paper]]></title>
             <description><![CDATA[<p>Dynamo</p>]]></description>
