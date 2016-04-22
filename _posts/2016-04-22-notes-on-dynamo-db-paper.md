@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Dynamo
-datePublished: '2016-04-22T19:30:48.357Z'
-dateModified: '2016-04-22T19:27:43.957Z'
+description: 'Dynamo has a simple key/value interface, is highly available with a clearly defined consistency window, is efficient in its resource usage, and has a simple scale out scheme to address growth in data set size or request rates. Each service that uses Dynamo runs its own Dynamo instances. '
+datePublished: '2016-04-22T20:14:50.715Z'
+dateModified: '2016-04-22T20:14:49.972Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-notes-on-dynamo-db-paper.md
@@ -22,50 +22,21 @@ url: notes-on-dynamo-db-paper/index.html
 _type: Article
 
 ---
-**Dynamo**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4df22113-1897-4516-bc0a-eb1cd8b54c6a.jpg)
 
 Traditionally production systems store their state in relational databases. For many of the more common usage patterns of state persistence, however, a relational database is a solution that is far from ideal. 
 
 Dynamo has a simple key/value interface, is highly available with a clearly defined consistency window, is efficient in its resource usage, and has a simple scale out scheme to address growth in data set size or request rates. Each service that uses Dynamo runs its own Dynamo instances. 
 
-Data replication algorithms used in commercial systems 
+Data replication algorithms used in commercial systems traditionally perform synchronous replica coordination in order to provide a strongly consistent data access interface. To achieve this level of consistency, these algorithms are forced to tradeoff the availability of the data under certain failure scenarios. 
 
-traditionally perform synchronous replica coordination in order to 
+For systems prone to server and network failures, availability can be increased by using optimistic replication techniques, where changes are allowed to propagate to replicas in the background, and concurrent, disconnected work is tolerated. Need to decide **when **and **who **to resolve those conflicts.
 
-provide a strongly consistent data access interface. To achieve this 
+Many traditional data stores execute conflict resolution during writes and keep the read complexity simple. In such systems, writes may be rejected if the data store cannot reach all (or a majority of) the replicas at a given time. 
 
-level of consistency, these algorithms are forced to tradeoff the 
+On the other hand, Dynamo targets the design space of an "always writeable" data store.
 
-availability of the data under certain failure scenarios. 
-
-For systems prone to server and network failures, availability can 
-
-be increased by using optimistic replication techniques, where 
-
-changes are allowed to propagate to replicas in the background, 
-
-and concurrent, disconnected work is tolerated. Need to decide 
-
-**when**
-
-and 
-
-**who**
-
-to resolve those conflicts. 
-
-Many traditional data stores execute conflict resolution during writes and keep the read 
-
-complexity simple. In such systems, writes may be rejected if 
-
-the data store cannot reach all (or a majority of) the replicas at a given time. On the other hand, Dynamo targets the design space 
-
-of an "always writeable" data store. 
-
-Who: This can be done by the data store or the application. If conflict resolution is done by the data store, its choices are rather 
-
-limited. In such cases, the data store can only use simple policies, such as "last write wins". Since the application is aware of the data schema it can decide on the conflict resolution method that is best suited for its client's experience. 
+Who: This can be done by the data store or the application. If conflict resolution is done by the data store, its choices are rather limited. In such cases, the data store can only use simple policies, such as "last write wins". Since the application is aware of the data schema it can decide on the conflict resolution method that is best suited for its client's experience.
 
 Other key principle in Dynamo design: 
 
@@ -93,5 +64,4 @@ Dynamo treats the result of each modification as a new and immutable version of 
 
 Dynamo uses vector clocks in order to capture causality between different versions of the same object. A vector clock is effectively a list of (node, counter) pairs. One vector clock is associated with every version of every object. One can determine whether two versions of an object are on parallel branches or have a causal ordering, by examine their vector clocks. If the counters on the first object's clock are less-than-or-equal to all of the nodes in the second clock, then the first is an ancestor of the second and can be forgotten. Otherwise, the two changes are considered to be in conflict and require reconciliation. 
 
-In Dynamo, when a client wishes to update an object, it must specify which version it is updating. This is done by passing the context it obtained from an earlier read operation, which contains the vector clock information. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b67021a-1752-415d-90df-fda677f86a25.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91928ad1-f224-4c7c-8819-5d18256351b9.jpg)
+In Dynamo, when a client wishes to update an object, it must specify which version it is updating. This is done by passing the context it obtained from an earlier read operation, which contains the vector clock information.
