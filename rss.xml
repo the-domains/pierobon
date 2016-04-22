@@ -4,21 +4,21 @@
         <description><![CDATA[Marco Pierobon]]></description>
         <link>https://thegrid.ai/pierobon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 20:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 20:14:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pierobon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Notes on Dynamo DB paper]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4df22113-1897-4516-bc0a-eb1cd8b54c6a.jpg">]]></description>
+            <link>https://thegrid.ai/pierobon/notes-on-dynamo-db-paper/index.html</link>
+            <guid isPermaLink="false">b7c5dee0-077a-4d74-a415-7a5d31a02c34</guid>
+            <pubDate>Fri, 22 Apr 2016 20:14:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Git cheat sheet]]></title>
             <description><![CDATA[<p></p>]]></description>
             <link>https://thegrid.ai/pierobon/git-cheat-sheet/index.html</link>
             <guid isPermaLink="false">1801e171-e285-4926-b844-439745e61785</guid>
             <pubDate>Fri, 22 Apr 2016 20:02:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Notes on Dynamo DB paper]]></title>
-            <description><![CDATA[<p>Dynamo</p>]]></description>
-            <link>https://thegrid.ai/pierobon/notes-on-dynamo-db-paper/index.html</link>
-            <guid isPermaLink="false">b7c5dee0-077a-4d74-a415-7a5d31a02c34</guid>
-            <pubDate>Fri, 22 Apr 2016 19:30:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
