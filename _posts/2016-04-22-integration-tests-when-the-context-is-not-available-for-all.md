@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Integration tests when the context is not available for all the required entities
-datePublished: '2016-04-22T13:17:10.339Z'
-dateModified: '2016-04-22T13:16:58.491Z'
+datePublished: '2016-04-22T13:18:05.612Z'
+dateModified: '2016-04-22T13:17:15.480Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-integration-tests-when-the-context-is-not-available-for-all.md
