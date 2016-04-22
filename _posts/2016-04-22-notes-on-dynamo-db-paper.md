@@ -5,24 +5,25 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Dynamo
-datePublished: '2016-04-22T19:25:42.212Z'
-dateModified: '2016-04-22T19:24:11.937Z'
+datePublished: '2016-04-22T19:30:48.357Z'
+dateModified: '2016-04-22T19:27:43.957Z'
 title: ''
+author: []
+sourcePath: _posts/2016-04-22-notes-on-dynamo-db-paper.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
 starred: false
-sourcePath: _posts/2016-04-22-notes-on-dynamo-db-paper.md
-published: true
 url: notes-on-dynamo-db-paper/index.html
 _type: Article
 
 ---
 **Dynamo**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4df22113-1897-4516-bc0a-eb1cd8b54c6a.jpg)
 
 Traditionally production systems store their state in relational databases. For many of the more common usage patterns of state persistence, however, a relational database is a solution that is far from ideal. 
 
@@ -92,4 +93,5 @@ Dynamo treats the result of each modification as a new and immutable version of 
 
 Dynamo uses vector clocks in order to capture causality between different versions of the same object. A vector clock is effectively a list of (node, counter) pairs. One vector clock is associated with every version of every object. One can determine whether two versions of an object are on parallel branches or have a causal ordering, by examine their vector clocks. If the counters on the first object's clock are less-than-or-equal to all of the nodes in the second clock, then the first is an ancestor of the second and can be forgotten. Otherwise, the two changes are considered to be in conflict and require reconciliation. 
 
-In Dynamo, when a client wishes to update an object, it must specify which version it is updating. This is done by passing the context it obtained from an earlier read operation, which contains the vector clock information.
+In Dynamo, when a client wishes to update an object, it must specify which version it is updating. This is done by passing the context it obtained from an earlier read operation, which contains the vector clock information. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b67021a-1752-415d-90df-fda677f86a25.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91928ad1-f224-4c7c-8819-5d18256351b9.jpg)
