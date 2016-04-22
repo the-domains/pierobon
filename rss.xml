@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[pierobon]]></title>
         <description><![CDATA[pierobon]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pierobon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 13:11:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Apr 2016 13:16:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pierobon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Integration tests when the context is not available for all the required entities</p>]]></description>
-            <link>undefinedintegration-tests-when-the-context-is-not-available-for-all/index.html</link>
+            <link>https://thegrid.ai/pierobon/integration-tests-when-the-context-is-not-available-for-all/index.html</link>
             <guid isPermaLink="false">245b7d5b-2e37-4e81-b027-05d9165baece</guid>
-            <pubDate>Fri, 22 Apr 2016 13:11:09 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2016 13:16:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
