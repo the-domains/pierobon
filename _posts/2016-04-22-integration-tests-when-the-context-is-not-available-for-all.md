@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Integration tests when the context is not available for all the required entities
-datePublished: '2016-04-22T13:16:03.586Z'
-dateModified: '2016-04-22T13:15:49.734Z'
+datePublished: '2016-04-22T13:17:10.339Z'
+dateModified: '2016-04-22T13:16:58.491Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-integration-tests-when-the-context-is-not-available-for-all.md
@@ -22,7 +22,7 @@ url: integration-tests-when-the-context-is-not-available-for-all/index.html
 _type: Article
 
 ---
-Integration tests when the context is not available for all the required entities
+**Integration tests when the context is not available for all the required entities**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1f46649-c97a-48bb-8564-1256aa12684a.jpg)
 
 Sometimes when you need to perform integration tests you have to create a full context in order to test your logic, but some entities might not be available in the current context, so you cannot add or modify them.
