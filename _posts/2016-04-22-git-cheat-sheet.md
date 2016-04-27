@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-22T20:02:15.638Z'
-dateModified: '2016-04-22T20:02:13.297Z'
+datePublished: '2016-04-27T05:28:52.846Z'
+dateModified: '2016-04-27T05:28:50.387Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-git-cheat-sheet.md
@@ -25,8 +25,11 @@ _type: Article
 __
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/492bee29-0e46-48e1-ba0d-cfaae028d685.jpg)
 
-_  
-Set up a global username_
+__
+
+--
+
+_Set up a global username_
 
 git config --global user.name "Billy Everyteen"
 
