@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T05:16:12.871Z'
-dateModified: '2016-04-27T05:16:12.200Z'
+datePublished: '2016-04-27T05:28:17.265Z'
+dateModified: '2016-04-27T05:28:12.653Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-26-migrate-sugarcrm-to-another-instance.md
@@ -24,6 +24,14 @@ _type: Article
 ---
 __
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dbef2e5-009f-44ea-916c-dae1da403598.jpg)
+
+__
+
+__
+
+__
+
+_--_
 
 _Copy the regional settings:_
 
