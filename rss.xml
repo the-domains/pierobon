@@ -4,8 +4,15 @@
         <description><![CDATA[Marco Pierobon]]></description>
         <link>https://thegrid.ai/pierobon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 05:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 08:36:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pierobon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Twelve-Factor App]]></title>
+            <description><![CDATA[<article><h1>The Twelve-Factor App</h1><p>In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service.</p></article>]]></description>
+            <link>http://12factor.net/</link>
+            <guid isPermaLink="false">fd2c5107-efb3-4450-876c-95e094b1e109</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Git cheat sheet]]></title>
             <description><![CDATA[<p></p>]]></description>
