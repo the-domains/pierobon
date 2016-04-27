@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ' '
-datePublished: '2016-04-26T18:31:06.190Z'
-dateModified: '2016-04-26T18:31:00.444Z'
+description: ''
+datePublished: '2016-04-27T05:16:12.871Z'
+dateModified: '2016-04-27T05:16:12.200Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-26-migrate-sugarcrm-to-another-instance.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,15 +18,12 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-26-migrate-sugarcrm-to-another-instance.md
-published: true
 url: migrate-sugarcrm-to-another-instance/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1dcf0d7d-e4fd-477a-9511-85c06b13e58d.jpg)
-
 __
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dbef2e5-009f-44ea-916c-dae1da403598.jpg)
 
 _Copy the regional settings:_
 
