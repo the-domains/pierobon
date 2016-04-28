@@ -4,8 +4,15 @@
         <description><![CDATA[Marco Pierobon]]></description>
         <link>https://thegrid.ai/pierobon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 18:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 18:37:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pierobon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Show section only to Sys admins]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/694dbdba-9b02-485b-8aec-18312f55b864.jpg">]]></description>
+            <link>https://thegrid.ai/pierobon/show-section-only-to-sys-admins/index.html</link>
+            <guid isPermaLink="false">6e7f942b-9d4c-4098-ab32-b7a49634888c</guid>
+            <pubDate>Thu, 28 Apr 2016 18:34:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Single entry point for all the plugins for an Entity]]></title>
             <description><![CDATA[<p>CRM Plugins need to extend IPlugin, but the general convention is to create a class per Plugin. This leads to Plugin solutions that are really sparse and can lead to making conflicting change.</p>]]></description>
