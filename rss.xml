@@ -4,11 +4,18 @@
         <description><![CDATA[Marco Pierobon]]></description>
         <link>https://thegrid.ai/pierobon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 07:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 18:17:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pierobon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Single entry point for all the plugins for an Entity]]></title>
+            <description><![CDATA[<p>CRM Plugins need to extend IPlugin, but the general convention is to create a class per Plugin. This leads to Plugin solutions that are really sparse and can lead to making conflicting change.</p>]]></description>
+            <link>https://thegrid.ai/pierobon/single-entry-point-for-all-the-plugins-for-an-entity/index.html</link>
+            <guid isPermaLink="false">d63db8a9-d807-4a77-a761-2ced3e2dcf0c</guid>
+            <pubDate>Thu, 28 Apr 2016 18:17:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Joseph Brodsky on How to Develop Your Taste in Reading]]></title>
-            <description><![CDATA[<article><h1>Joseph Brodsky on How to Develop Your Taste in Reading</h1><p>"The most damning revelation you can make about yourself is that you do not know what is interesting and what is not," Kurt Vonnegut famously proclaimed. But how is one to develop that discerning taste, especially in determining what is worth reading and what is not?</p><img src="https://www.brainpickings.org/wp-content/uploads/2014/02/sontaglove_unlimited.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Joseph Brodsky on How to Develop Your Taste in Reading</h1><p>"The most damning revelation you can make about yourself is that you do not know what is interesting and what is not," Kurt Vonnegut famously proclaimed. But how is one to develop that discerning taste, especially in determining what is worth reading and what is not?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7054dbbf52864b681e0356f86c92eed2f3339cc.jpg"></article>]]></description>
             <link>https://www.brainpickings.org/2014/02/17/joseph-brodsky-how-to-read-a-book/</link>
             <guid isPermaLink="false">426cb35f-13a5-43aa-8986-ee1e765aaf0f</guid>
             <pubDate>Thu, 28 Apr 2016 07:10:36 GMT</pubDate>
