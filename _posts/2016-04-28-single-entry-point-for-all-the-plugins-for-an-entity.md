@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "CRM Plugins need to extend\_IPlugin, but the general convention is to create a class per Plugin. This leads to Plugin solutions that are really sparse and can lead to making conflicting change."
-datePublished: '2016-04-28T18:17:24.989Z'
-dateModified: '2016-04-28T18:17:05.550Z'
+description: 'CRM Plugins need to extend IPlugin, but the general convention is to create a class per Plugin. This leads to Plugin solutions that are really sparse and can lead to making conflicting change.'
+datePublished: '2016-05-01T10:00:38.274Z'
+dateModified: '2016-04-28T18:17:35.209Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-28-single-entry-point-for-all-the-plugins-for-an-entity.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-28-single-entry-point-for-all-the-plugins-for-an-entity.md
-published: true
 url: single-entry-point-for-all-the-plugins-for-an-entity/index.html
 _type: Article
 
@@ -32,7 +32,7 @@ Initially we usually keep the methods as functions inside the code, but as the c
 
 This is a simple example on how you can detect which operation triggered the operation, in which context the plugin will run (Pre or Post operation) and whether the execution will be sync or async.
 
-using System;
+using System; 
 
 using System.Collections.Generic; 
 
