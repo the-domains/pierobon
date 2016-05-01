@@ -4,7 +4,7 @@
         <description><![CDATA[Marco Pierobon]]></description>
         <link>https://thegrid.ai/pierobon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 10:00:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 10:01:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pierobon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pierobon/64bf0122-081f-4eb3-9933-1dbaf5fed619/index.html</link>
             <guid isPermaLink="false">64bf0122-081f-4eb3-9933-1dbaf5fed619</guid>
             <pubDate>Sun, 01 May 2016 10:00:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Single entry point for all the plugins for an Entity]]></title>
+            <description><![CDATA[<p>CRM Plugins need to extend IPlugin, but the general convention is to create a class per Plugin. This leads to Plugin solutions that are really sparse and can lead to making conflicting change.</p>]]></description>
+            <link>https://thegrid.ai/pierobon/single-entry-point-for-all-the-plugins-for-an-entity/index.html</link>
+            <guid isPermaLink="false">d63db8a9-d807-4a77-a761-2ced3e2dcf0c</guid>
+            <pubDate>Sun, 01 May 2016 10:00:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Core concepts of Communication in IT projects]]></title>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/pierobon/show-section-only-to-sys-admins/index.html</link>
             <guid isPermaLink="false">6e7f942b-9d4c-4098-ab32-b7a49634888c</guid>
             <pubDate>Thu, 28 Apr 2016 18:34:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Single entry point for all the plugins for an Entity]]></title>
-            <description><![CDATA[<p>CRM Plugins need to extend IPlugin, but the general convention is to create a class per Plugin. This leads to Plugin solutions that are really sparse and can lead to making conflicting change.</p>]]></description>
-            <link>https://thegrid.ai/pierobon/single-entry-point-for-all-the-plugins-for-an-entity/index.html</link>
-            <guid isPermaLink="false">d63db8a9-d807-4a77-a761-2ced3e2dcf0c</guid>
-            <pubDate>Thu, 28 Apr 2016 18:17:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Joseph Brodsky on How to Develop Your Taste in Reading]]></title>
