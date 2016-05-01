@@ -4,8 +4,15 @@
         <description><![CDATA[Marco Pierobon]]></description>
         <link>https://thegrid.ai/pierobon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 09:38:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 09:43:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pierobon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Core concepts of Communication in IT projects]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/145b4ca8-8945-41ba-a29f-1150530a595e.jpg">]]></description>
+            <link>https://thegrid.ai/pierobon/core-concepts-of-communication-in-it-projects/index.html</link>
+            <guid isPermaLink="false">46c8f2bc-c259-4e44-ad1b-f2b4d0dc58fe</guid>
+            <pubDate>Sun, 01 May 2016 09:42:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p></p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pierobon/how-to-specify-a-query-expression-linking-multiple-entities/index.html</link>
             <guid isPermaLink="false">b8f0520b-765b-46b0-b0e3-5209caf3c1ac</guid>
             <pubDate>Sat, 23 Apr 2016 19:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d73ea5de-f939-4088-aeab-88926f589b1e.jpg">]]></description>
-            <link>https://thegrid.ai/pierobon/integration-tests-when-the-context-is-not-available-for-all/index.html</link>
-            <guid isPermaLink="false">245b7d5b-2e37-4e81-b027-05d9165baece</guid>
-            <pubDate>Fri, 22 Apr 2016 20:23:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
