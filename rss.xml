@@ -4,7 +4,7 @@
         <description><![CDATA[Marco Pierobon]]></description>
         <link>https://thegrid.ai/pierobon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 10:01:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 16:27:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pierobon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pierobon/64bf0122-081f-4eb3-9933-1dbaf5fed619/index.html</link>
             <guid isPermaLink="false">64bf0122-081f-4eb3-9933-1dbaf5fed619</guid>
             <pubDate>Sun, 01 May 2016 10:00:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Make Fossils Productive Again | Peter Bailis]]></title>
+            <description><![CDATA[<article><h1>How To Make Fossils Productive Again | Peter Bailis</h1><p>At NorCal Database Day 2016, I served on a panel titled 40+ Years of Database Research: Do We Have an Identity Crisis? What follows is a loose transcript of my talk, which I enjoyed writing and delivering and which I hope you enjoy reading.</p><img src="http://www.bailis.org/blog/post_data/2016-04-30/le_corbusier.jpg"></article>]]></description>
+            <link>http://www.bailis.org/blog/how-to-make-fossils-productive-again/</link>
+            <guid isPermaLink="false">1216e303-d78d-43e7-b5ef-b485aba8add3</guid>
+            <pubDate>Mon, 02 May 2016 16:25:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Single entry point for all the plugins for an Entity]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pierobon/migrate-sugarcrm-to-another-instance/index.html</link>
             <guid isPermaLink="false">5465d253-d7c1-4bd4-bc10-1ed2fb58c5a0</guid>
             <pubDate>Wed, 27 Apr 2016 05:28:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Visual studio package manager useful commands]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6977a3c-17b5-4633-a987-07c7f085da05.jpg">]]></description>
-            <link>https://thegrid.ai/pierobon/visual-studio-package-manager-useful-commands/index.html</link>
-            <guid isPermaLink="false">99c86f7b-5e7b-413d-9532-2c6d0bb4d0ed</guid>
-            <pubDate>Tue, 26 Apr 2016 18:27:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
