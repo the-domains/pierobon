@@ -4,7 +4,7 @@
         <description><![CDATA[Marco Pierobon]]></description>
         <link>https://thegrid.ai/pierobon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 18:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 18:23:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pierobon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pierobon/64bf0122-081f-4eb3-9933-1dbaf5fed619/index.html</link>
             <guid isPermaLink="false">64bf0122-081f-4eb3-9933-1dbaf5fed619</guid>
             <pubDate>Sun, 01 May 2016 10:00:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Core concepts of Communication in IT projects]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/145b4ca8-8945-41ba-a29f-1150530a595e.jpg">]]></description>
+            <link>https://thegrid.ai/pierobon/core-concepts-of-communication-in-it-projects/index.html</link>
+            <guid isPermaLink="false">46c8f2bc-c259-4e44-ad1b-f2b4d0dc58fe</guid>
+            <pubDate>Thu, 05 May 2016 18:22:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Module 1 (Service management) - Continual service improvement]]></title>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/pierobon/single-entry-point-for-all-the-plugins-for-an-entity/index.html</link>
             <guid isPermaLink="false">d63db8a9-d807-4a77-a761-2ced3e2dcf0c</guid>
             <pubDate>Sun, 01 May 2016 10:00:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Core concepts of Communication in IT projects]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/145b4ca8-8945-41ba-a29f-1150530a595e.jpg">]]></description>
-            <link>https://thegrid.ai/pierobon/core-concepts-of-communication-in-it-projects/index.html</link>
-            <guid isPermaLink="false">46c8f2bc-c259-4e44-ad1b-f2b4d0dc58fe</guid>
-            <pubDate>Sun, 01 May 2016 09:42:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
