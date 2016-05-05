@@ -4,7 +4,7 @@
         <description><![CDATA[Marco Pierobon]]></description>
         <link>https://thegrid.ai/pierobon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 16:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 17:23:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pierobon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 01 May 2016 10:00:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[TO DO LIST FOR AN EFFECTIVE MANAGED SOLUTION DEPLOYMENT IN DYNAMICS CRM]]></title>
+            <description><![CDATA[<p>TO DO LIST FOR AN EFFECTIVE MANAGED SOLUTION DEPLOYMENT IN DYNAMICS CRM</p>]]></description>
+            <link>https://thegrid.ai/pierobon/to-do-list-for-an-effective-managed-solution-deployment-in-d/index.html</link>
+            <guid isPermaLink="false">60a836e0-5d50-4b61-9334-013960369757</guid>
+            <pubDate>Thu, 05 May 2016 17:22:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How To Make Fossils Productive Again | Peter Bailis]]></title>
-            <description><![CDATA[<article><h1>How To Make Fossils Productive Again | Peter Bailis</h1><p>At NorCal Database Day 2016, I served on a panel titled 40+ Years of Database Research: Do We Have an Identity Crisis? What follows is a loose transcript of my talk, which I enjoyed writing and delivering and which I hope you enjoy reading.</p><img src="http://www.bailis.org/blog/post_data/2016-04-30/le_corbusier.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>How To Make Fossils Productive Again | Peter Bailis</h1><p>At NorCal Database Day 2016, I served on a panel titled 40+ Years of Database Research: Do We Have an Identity Crisis? What follows is a loose transcript of my talk, which I enjoyed writing and delivering and which I hope you enjoy reading.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49f323cc6509b000fb873ed11577c31e0959d293.jpg"></article>]]></description>
             <link>http://www.bailis.org/blog/how-to-make-fossils-productive-again/</link>
             <guid isPermaLink="false">1216e303-d78d-43e7-b5ef-b485aba8add3</guid>
             <pubDate>Mon, 02 May 2016 16:25:57 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pierobon/git-cheat-sheet/index.html</link>
             <guid isPermaLink="false">1801e171-e285-4926-b844-439745e61785</guid>
             <pubDate>Wed, 27 Apr 2016 05:28:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Migrate SugarCRM to another instance]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dbef2e5-009f-44ea-916c-dae1da403598.jpg">]]></description>
-            <link>https://thegrid.ai/pierobon/migrate-sugarcrm-to-another-instance/index.html</link>
-            <guid isPermaLink="false">5465d253-d7c1-4bd4-bc10-1ed2fb58c5a0</guid>
-            <pubDate>Wed, 27 Apr 2016 05:28:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
