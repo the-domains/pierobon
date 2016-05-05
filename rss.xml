@@ -4,7 +4,7 @@
         <description><![CDATA[Marco Pierobon]]></description>
         <link>https://thegrid.ai/pierobon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 18:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 18:30:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pierobon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pierobon/64bf0122-081f-4eb3-9933-1dbaf5fed619/index.html</link>
             <guid isPermaLink="false">64bf0122-081f-4eb3-9933-1dbaf5fed619</guid>
             <pubDate>Sun, 01 May 2016 10:00:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Migrate SugarCRM to another instance]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7448c846-1db4-4b3c-b59d-f0664d7a2dce.jpg">]]></description>
+            <link>https://thegrid.ai/pierobon/migrate-sugarcrm-to-another-instance/index.html</link>
+            <guid isPermaLink="false">5465d253-d7c1-4bd4-bc10-1ed2fb58c5a0</guid>
+            <pubDate>Thu, 05 May 2016 18:29:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Core concepts of Communication in IT projects]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.brainpickings.org/2014/02/17/joseph-brodsky-how-to-read-a-book/</link>
             <guid isPermaLink="false">426cb35f-13a5-43aa-8986-ee1e765aaf0f</guid>
             <pubDate>Thu, 28 Apr 2016 07:10:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Twelve-Factor App]]></title>
-            <description><![CDATA[<article><h1>The Twelve-Factor App</h1><p>In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service.</p></article>]]></description>
-            <link>http://12factor.net/</link>
-            <guid isPermaLink="false">fd2c5107-efb3-4450-876c-95e094b1e109</guid>
-            <pubDate>Wed, 27 Apr 2016 08:35:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
