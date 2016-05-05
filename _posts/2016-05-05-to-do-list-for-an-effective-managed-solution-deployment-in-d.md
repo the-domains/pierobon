@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'TO DO LIST FOR AN EFFECTIVE MANAGED SOLUTION DEPLOYMENT IN DYNAMICS CRM '
-datePublished: '2016-05-05T17:22:58.439Z'
-dateModified: '2016-05-05T17:22:51.294Z'
+description: TO DO LIST FOR AN EFFECTIVE MANAGED SOLUTION DEPLOYMENT IN DYNAMICS CRM
+datePublished: '2016-05-05T17:25:21.366Z'
+dateModified: '2016-05-05T17:25:16.840Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-05-to-do-list-for-an-effective-managed-solution-deployment-in-d.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-05-to-do-list-for-an-effective-managed-solution-deployment-in-d.md
 url: to-do-list-for-an-effective-managed-solution-deployment-in-d/index.html
 _type: Article
 
