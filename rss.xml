@@ -4,7 +4,7 @@
         <description><![CDATA[Marco Pierobon]]></description>
         <link>https://thegrid.ai/pierobon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 18:34:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 20:18:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pierobon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pierobon/64bf0122-081f-4eb3-9933-1dbaf5fed619/index.html</link>
             <guid isPermaLink="false">64bf0122-081f-4eb3-9933-1dbaf5fed619</guid>
             <pubDate>Thu, 05 May 2016 18:34:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[googlec8fa587a454ced84.html]]></title>
+            <description><![CDATA[<p>google-site-verification: googlec8fa587a454ced84.html</p>]]></description>
+            <link>https://thegrid.ai/pierobon/googlec8fa587a454ced84html/index.html</link>
+            <guid isPermaLink="false">3f4911d1-abc5-4c02-b0e6-5e816a76164e</guid>
+            <pubDate>Thu, 05 May 2016 20:18:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Migrate SugarCRM to another instance]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pierobon/show-section-only-to-sys-admins/index.html</link>
             <guid isPermaLink="false">6e7f942b-9d4c-4098-ab32-b7a49634888c</guid>
             <pubDate>Thu, 28 Apr 2016 18:34:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joseph Brodsky on How to Develop Your Taste in Reading]]></title>
-            <description><![CDATA[<article><h1>Joseph Brodsky on How to Develop Your Taste in Reading</h1><p>"The most damning revelation you can make about yourself is that you do not know what is interesting and what is not," Kurt Vonnegut famously proclaimed. But how is one to develop that discerning taste, especially in determining what is worth reading and what is not?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7054dbbf52864b681e0356f86c92eed2f3339cc.jpg"></article>]]></description>
-            <link>https://www.brainpickings.org/2014/02/17/joseph-brodsky-how-to-read-a-book/</link>
-            <guid isPermaLink="false">426cb35f-13a5-43aa-8986-ee1e765aaf0f</guid>
-            <pubDate>Thu, 28 Apr 2016 07:10:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
