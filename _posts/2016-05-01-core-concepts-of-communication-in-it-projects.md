@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Core concepts:'
-datePublished: '2016-05-01T09:42:26.466Z'
-dateModified: '2016-05-01T09:42:16.879Z'
+datePublished: '2016-05-05T18:22:53.923Z'
+dateModified: '2016-05-05T18:22:51.480Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-01-core-concepts-of-communication-in-it-projects.md
 authors: []
 publisher:
   name: null
@@ -16,8 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-01-core-concepts-of-communication-in-it-projects.md
-published: true
 url: core-concepts-of-communication-in-it-projects/index.html
 _type: Article
 
@@ -26,11 +25,11 @@ _type: Article
 
 **Core concepts:**
 
-the purpose of work is to achieve a goal, work produces a product or service that achieves a goal (page 16-18)
+the purpose of work is to achieve a goal, work produces a product or service that achieves a goal
 
 The PM's triangle of imbalance :balance between time, goals and resource, projects are successful when time goals and resources are just right, shape of an equilateral triangle
 
-Progressive elaboration, decomposition and breakdown structure: progressive elaboration - deeper at each cycle, breakdown structure - decomposing an object into smaller ones (page 19-20)
+Progressive elaboration, decomposition and breakdown structure: progressive elaboration - deeper at each cycle, breakdown structure - decomposing an object into smaller ones
 
 Establishing a common Language: project - temporary - unique - product is defined, program, portfolio, scope - unqualified - product scope - project scope, goals, objectives, requirements
 
