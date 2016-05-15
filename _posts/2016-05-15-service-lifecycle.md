@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Service lifecycle
-datePublished: '2016-05-15T15:58:34.805Z'
-dateModified: '2016-05-15T15:58:26.747Z'
+description: ITIL Service lifecycle
+datePublished: '2016-05-15T15:59:48.402Z'
+dateModified: '2016-05-15T15:59:36.304Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-15-service-lifecycle.md
 authors: []
 publisher:
   name: null
@@ -16,14 +17,13 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-15-service-lifecycle.md
 url: service-lifecycle/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61a91e71-257f-4a89-a3ea-b228e785358d.jpg)
 
-**Service lifecycle**
+**ITIL Service lifecycle**
 
 -5 Core Books
 
