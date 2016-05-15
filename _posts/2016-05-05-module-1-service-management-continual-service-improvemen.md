@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-05T18:20:18.888Z'
-dateModified: '2016-05-05T18:20:09.641Z'
+datePublished: '2016-05-15T16:00:29.124Z'
+dateModified: '2016-05-15T16:00:24.740Z'
 title: Module 1 (Service management) - Continual service improvement
 author: []
+sourcePath: _posts/2016-05-05-module-1-service-management-continual-service-improvemen.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-05-module-1-service-management-continual-service-improvemen.md
 url: module-1-service-management-continual-service-improvemen/index.html
 _type: Article
 
@@ -27,7 +27,7 @@ _type: Article
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e711a3b-6f22-40ee-9e06-04db0f13ad31.jpg)
 
-**ITIL version 3 foundations**
+**ITIL Module 1: Service management**
 
 _ITIL Version 2 modules_
 
