@@ -4,7 +4,7 @@
         <description><![CDATA[Marco Pierobon]]></description>
         <link>https://thegrid.ai/pierobon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 15:59:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 16:00:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pierobon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pierobon/64bf0122-081f-4eb3-9933-1dbaf5fed619/index.html</link>
             <guid isPermaLink="false">64bf0122-081f-4eb3-9933-1dbaf5fed619</guid>
             <pubDate>Thu, 05 May 2016 18:34:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Module 1 (Service management) - Continual service improvement]]></title>
+            <description><![CDATA[<article><h1>Module 1 (Service management) - Continual service improvement</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/pierobon/module-1-service-management-continual-service-improvemen/index.html</link>
+            <guid isPermaLink="false">b5f3145a-d92c-4f0f-91dc-77b5ba7f8c30</guid>
+            <pubDate>Sun, 15 May 2016 16:00:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Service lifecycle]]></title>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/pierobon/core-concepts-of-communication-in-it-projects/index.html</link>
             <guid isPermaLink="false">46c8f2bc-c259-4e44-ad1b-f2b4d0dc58fe</guid>
             <pubDate>Thu, 05 May 2016 18:22:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Module 1 (Service management) - Continual service improvement]]></title>
-            <description><![CDATA[<article><h1>Module 1 (Service management) - Continual service improvement</h1><p></p></article>]]></description>
-            <link>https://thegrid.ai/pierobon/module-1-service-management-continual-service-improvemen/index.html</link>
-            <guid isPermaLink="false">b5f3145a-d92c-4f0f-91dc-77b5ba7f8c30</guid>
-            <pubDate>Thu, 05 May 2016 18:20:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TO DO LIST FOR AN EFFECTIVE MANAGED SOLUTION DEPLOYMENT IN DYNAMICS CRM]]></title>
