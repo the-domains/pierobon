@@ -4,7 +4,7 @@
         <description><![CDATA[Marco Pierobon]]></description>
         <link>https://thegrid.ai/pierobon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 20:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 15:59:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pierobon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pierobon/64bf0122-081f-4eb3-9933-1dbaf5fed619/index.html</link>
             <guid isPermaLink="false">64bf0122-081f-4eb3-9933-1dbaf5fed619</guid>
             <pubDate>Thu, 05 May 2016 18:34:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Service lifecycle]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61a91e71-257f-4a89-a3ea-b228e785358d.jpg">]]></description>
+            <link>https://thegrid.ai/pierobon/service-lifecycle/index.html</link>
+            <guid isPermaLink="false">db36977e-8066-4cd1-91a2-9188f3c924bc</guid>
+            <pubDate>Sun, 15 May 2016 15:58:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Migrate SugarCRM to another instance]]></title>
