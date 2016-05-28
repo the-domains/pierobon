@@ -4,7 +4,7 @@
         <description><![CDATA[Marco Pierobon]]></description>
         <link>https://thegrid.ai/pierobon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 16:00:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 10:16:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pierobon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,14 @@
             <link>https://thegrid.ai/pierobon/64bf0122-081f-4eb3-9933-1dbaf5fed619/index.html</link>
             <guid isPermaLink="false">64bf0122-081f-4eb3-9933-1dbaf5fed619</guid>
             <pubDate>Thu, 05 May 2016 18:34:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The CLR on .Net Framework]]></title>
+            <description><![CDATA[<article><h1>The CLR on .Net Framework</h1><p>It is a managed execution platform: there is an execution engine (VM). It takes care of codes execution and provides runtime services
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3a9f0f35527502a4fadbabfddc7eebe16713643.gif"></article>]]></description>
+            <link>https://thegrid.ai/pierobon/the-clr-on-net-framework/index.html</link>
+            <guid isPermaLink="false">15b7478b-5689-4eb1-a7fd-9c417d5d0869</guid>
+            <pubDate>Sat, 28 May 2016 10:15:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Module 1 (Service management) - Continual service improvement]]></title>
@@ -68,13 +76,6 @@
             <link>https://thegrid.ai/pierobon/6404bfeb-7f1c-4c26-9c85-d03b909f8d12/index.html</link>
             <guid isPermaLink="false">6404bfeb-7f1c-4c26-9c85-d03b909f8d12</guid>
             <pubDate>Sun, 01 May 2016 09:37:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Show section only to Sys admins]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/694dbdba-9b02-485b-8aec-18312f55b864.jpg">]]></description>
-            <link>https://thegrid.ai/pierobon/show-section-only-to-sys-admins/index.html</link>
-            <guid isPermaLink="false">6e7f942b-9d4c-4098-ab32-b7a49634888c</guid>
-            <pubDate>Thu, 28 Apr 2016 18:34:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
